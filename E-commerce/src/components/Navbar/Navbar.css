@@ -87,3 +87,6 @@ nav-logo p{
   color: white;
 }
 
+.nav-login-cart img{
+  cursor: pointer;
+}
